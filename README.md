@@ -8,4 +8,4 @@ Resources provided by the agenomicsphd's community
 - Create a pull request and wait for review
 
 # Contributors 💖
-<img src="https://contributors-img.web.app/image?repo=ItsNotAlext/agenomicsphd-resources">
+<img src="https://contributors-img.web.app/image?repo=ItsNotAlexy/agenomicsphd-resources">
